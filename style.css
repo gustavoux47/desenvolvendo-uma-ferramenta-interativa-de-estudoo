@@ -32,7 +32,7 @@ h1{
     color: var(--cor-destaque);
 }
 
-h1, ,caixa-perguntas, .caixa-resultado{
+h1, .caixa-perguntas, .caixa-resultado{
     font-family: 'Chakra Petch', sans-serif;
 }
 
